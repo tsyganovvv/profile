@@ -1,7 +1,7 @@
 
 
 ### Мой стек технологий:
-<img src="https://img.shields.io/badge/Python-aqua ?style=for-the-badge&logo=python&logoColor=black"/><img src="https://img.shields.io/badge/HTML-black ?style=for-the-badge&logo=htmx&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-black ?style=for-the-badge&logo=htmx&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-violet ?style=for-the-badge&logo=unocss&logoColor=black"/>
 <img src="https://img.shields.io/badge/flak-black ?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-aqua ?style=for-the-badge&logo=cplusplus&logoColor=white"/>
