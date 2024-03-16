@@ -1,4 +1,4 @@
-[![Header](https://u-static.haozhaopian.net/assets/projects/thumb_v/f67c10fb-8b16-4aef-b158-da4d3f219834/cltsxe6de000a3o6i12ysztid/jkd50xGNeA9itFV.0MzxZBSGqak85QDl.jpg)](https://www.shpavda.com/)
+
 
 ### Мой стек технологий:
 <img src="https://img.shields.io/badge/Python-aqua ?style=for-the-badge&logo=python&logoColor=black"/><img src="https://img.shields.io/badge/HTML-black ?style=for-the-badge&logo=htmx&logoColor=white"/>
