@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/C++-aqua ?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-violet ?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-palegreen ?style=for-the-badge&logo=tensorflow&logoColor=violet"/>
-<img src="https://img.shields.io/badge/pytorch-aqua ?style=for-the-badge&logo=pytorch&logoColor=black"/>
+
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/iudbui)
